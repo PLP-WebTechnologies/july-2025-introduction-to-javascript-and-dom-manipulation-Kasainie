@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Fundamentals Assignment</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1 id="main-title">JavaScript Assignment</h1>
+    
+    <hr>
+
+    <h2>Part 1 & 2: JavaScript Basics & Functions</h2>
+    <p id="welcome-message">Hello!</p>
+    <button id="color-button">Change Title Color</button>
+
+    <hr>
+    
+    <h2>Part 3: Loops</h2>
+    <ul id="dynamic-list">
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ul>
+
+    <hr>
+    
+    <h2>Part 4: DOM Manipulation</h2>
+    <div id="dom-section">
+        <p id="text-to-change">Click the button below to change this text.</p>
+        <button id="dom-button">Change Text</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
